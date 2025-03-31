@@ -37,3 +37,5 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juliaazeved0&repo=ProjetoJavaClean&bg_color=e60f50&border_color=fff&show_icons=true&icon_color=fff&title_color=FFF&text_color=FFF)](https://github.com/juliaazeved0/ProjetoJavaClean)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juliaazeved0&repo=python-projects&bg_color=e60f50&border_color=fff&show_icons=true&icon_color=fff&title_color=FFF&text_color=FFF)](https://github.com/juliaazeved0/python-projects)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juliaazeved0&repo=Projeto_MVC&bg_color=e60f50&border_color=fff&show_icons=true&icon_color=fff&title_color=FFF&text_color=FFF)](https://github.com/juliaazeved0/Projeto_MVC)
