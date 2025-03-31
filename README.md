@@ -1,8 +1,7 @@
-### Olá, sou Julia Caroline de Azevedo!
+## Olá, mundo! sou Julia Caroline de Azevedo!
 ## Sobre
-### Atualmente sou estudante de análise e desenvolvimento de sistemas. No momento atuo como professora de informática e robótica no ensino fundamental. Estou buscando minha primeira oportunidade de estágio para finalmente migrar para a área Tech! 
-### Sou formada em física e pós graduada em metodologias de ensino. Meu contato inicial com a programação ocorreu em minha primeira graduação, posteriormente  me aprofundei na programação em blocos através de uma formação em robótica educacional. 
-### Desde então, tive grande interesse na área Tech. Por isso, busco aprimorar meus conhecimentos em desenvolvimento back-end com Java.
+  Atualmente sou estudante de análise e desenvolvimento de sistemas enquanto atuo como professora de informática e robótica no ensino fundamental. Sou formada em física e pós graduada em metodologias de ensino. Meu contato inicial com a programação ocorreu em minha primeira graduação, posteriormente  me aprofundei na programação em blocos através de uma formação em robótica educacional. 
+  Desde então, tive grande interesse na área Tech. Por isso, busco aprimorar meus conhecimentos em desenvolvimento back-end com Java.
 ### Quem sou eu fora do profissional? Apenas uma shinobi apaixonada por ciência, animes e gatinhos! 
 
 # Conecte-se comigo
