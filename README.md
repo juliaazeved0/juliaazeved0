@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f60&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=header"/>
 
 <div style="display: inline_block" align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e60f60&center=true&multiline=true&repeat=true&width=435&lines=Hello,+World!+Eu+sou+Julia+Azevedo!;-----------------------------" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e60f50&center=true&multiline=true&repeat=true&width=435&lines=Hello,+World!+Eu+sou+Julia+Azevedo!;-----------------------------" />
 </div>
 <p align="center">
   Professora de informática e robótica, estudante de ADS, formada em Física e apaixonada por tecnologia.<br/>
