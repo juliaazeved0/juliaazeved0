@@ -28,7 +28,6 @@
 ![Git](https://img.shields.io/badge/GIT-%23e05f?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23e05f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23e05f?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23e05f?style=for-the-badge&logo=PHP&logoColor=white)
 
 ### GitHub Stats and Languages
 <div >
@@ -43,11 +42,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juliaazeved0&repo=ProjetoJavaClean&bg_color=e60f50&border_color=e60f60&show_icons=true&icon_color=fff&title_color=FFF&text_color=FFF)](https://github.com/juliaazeved0/ProjetoJavaClean)
 
-<div align="center">
-  <br><p align="center"><h3>Visitantes</h3></b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliaazeved0}/count.svg" /></p> 
-  <br>
-</div>
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=footer"/>
