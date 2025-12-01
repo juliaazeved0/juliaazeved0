@@ -22,8 +22,7 @@
 ### GitHub Stats and Languages
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaazeved0&theme=transparent&bg_color=e60f50&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&hide=stars" /> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaazeved0&theme=transparent&bg_color=%23e60f50&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&hide=stars" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=footer"/>
 
