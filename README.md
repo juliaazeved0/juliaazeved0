@@ -1,15 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=header"/>
 
-<div style="display: inline_block" align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e60f50&center=true&multiline=true&repeat=true&width=435&lines=Hello,+World!+Eu+sou+Julia+Azevedo!;-----------------------------" />
-</div>
-<p align="center">
-  Professora de informática e robótica, estudante de ADS, formada em Física e apaixonada por tecnologia.<br/>
-  Comecei com programação em blocos na robótica educacional e hoje me aprofundo no back-end com Java ☕<br/>
-  Fora do tech? Uma shinobi fã de animes, ciência e gatinhos!🐱
-</p>
-
 <div align="center" >
 
 ### Conecte-se comigo
@@ -30,12 +20,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23e05f?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### GitHub Stats and Languages
-<div >
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaazeved0&theme=transparent&bg_color=e60f50&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&hide=stars" /> 
 </p>
-</div>
 
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=footer"/>
+
