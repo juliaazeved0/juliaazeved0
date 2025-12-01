@@ -2,6 +2,8 @@
 
 <div align="center" >
 
+<p> Estudante de Análise e desenvolvimento de sistema, formada em física e atualmente estagiária no Itaipu Parquetec, também atuo como professora de informática e robótica. </p>
+
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23e05f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaazeved0/)
@@ -19,15 +21,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%23e05f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23e05f?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### GitHub Stats and Languages
 
-@@ -33,7 +33,7 @@
-<div >
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaazeved0&theme=transparent&bg_color=e60f50&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&hide=stars" /> <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliaazeved0&bg_color=e60f50&border_color=FFF&title_color=FFF&text_color=FFF&hide=Hack" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaazeved0&theme=transparent&bg_color=e60f50&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&hide=stars" /> 
-</p>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e60f50&height=120&section=basebord"/>
 
